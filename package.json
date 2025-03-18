@@ -31,9 +31,9 @@
     "@octokit/core": "^6.0.0",
     "@octokit/tsconfig": "^4.0.0",
     "@types/node": "^22.0.0",
-    "@vitest/coverage-v8": "^2.0.3",
+    "@vitest/coverage-v8": "^3.0.9",
     "camelcase": "^8.0.0",
-    "esbuild": "^0.24.0",
+    "esbuild": "^0.25.1",
     "fetch-mock": "^11.0.0",
     "github-openapi-graphql-query": "^4.3.1",
     "glob": "^11.0.0",
@@ -43,7 +43,7 @@
     "sort-keys": "^5.0.0",
     "string-to-jsdoc-comment": "^1.0.0",
     "typescript": "^5.0.0",
-    "vitest": "^2.0.3"
+    "vitest": "^3.0.9"
   },
   "peerDependencies": {
     "@octokit/core": ">=6"
